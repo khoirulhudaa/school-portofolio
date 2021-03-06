@@ -766,6 +766,7 @@ nav {
     nav {
         z-index: 18;
         padding-top: 20px;
+        margin-top: 10px;
         padding-left: 15px;
         padding-right: 15px;
         color: white;
