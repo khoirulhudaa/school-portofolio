@@ -48,7 +48,7 @@ section {
     width: 4px;
     z-index: 4;
     height: 120vh;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
 }
 
 .sec1::after {
@@ -59,7 +59,7 @@ section {
     width: 4px;
     z-index: 4;
     height: 605vh;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
 }
 
 nav {
@@ -74,7 +74,7 @@ nav {
 .navbar-light .navbar-brand {
     font-size: 22px;
     width: max-content;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
     border-radius: 0 60px 60px 0;
     padding: 3px 12px;
     font-weight: bold;
@@ -134,7 +134,7 @@ nav {
     font-weight: bold;
     margin-right: 20px;
     width: max-content;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
     color: white;
     border: none;
     padding: 6px 35px;
@@ -153,7 +153,7 @@ nav {
     z-index: 3;
     width: 4px;
     height: 250px;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
 }
 
 .sec1-images {
@@ -234,7 +234,7 @@ nav {
     font-weight: bold;
     margin-right: 20px;
     width: max-content;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
     color: white;
     border: none;
     padding: 6px 35px;
@@ -248,7 +248,7 @@ nav {
 
 .wraps2 {
     width: 85vw;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
     border-radius: 12px;
     height: 100%;
     text-align: center;
@@ -262,7 +262,7 @@ nav {
     left: 83px;
     width: 30px;
     height: 4px;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
 }
 
 .wraps2::after {
@@ -273,7 +273,7 @@ nav {
     width: 4px;
     z-index: 4;
     height: 130px;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
 }
 
 .sec2 h1 {
@@ -348,7 +348,7 @@ nav {
     width: 4px;
     z-index: 4;
     height: 200px;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
 }
 
 .sec3 p {
@@ -394,7 +394,7 @@ nav {
     width: 85%;
     height: 90%;
     border-radius: 10px;
-    background-color: rgb(49, 243, 0);
+    background-color: rgb(45, 226, 0);
 }
 
 .wrap-sec4::before {
@@ -404,7 +404,7 @@ nav {
    left: 80px;
    width: 40px;
    height: 4px;
-   background-color: rgb(49, 243, 0);
+   background-color: rgb(45, 226, 0);
 }
 
 .wrap-sec4 div {
@@ -484,7 +484,7 @@ nav {
    left: 49VW;
    width: 4px;
    height: 170px;
-   background-color: rgb(49, 243, 0);
+   background-color: rgb(45, 226, 0);
 }
 
 .sec5 h1 {
@@ -645,7 +645,7 @@ nav {
     overflow: hidden;
     width: 100vw;
     height: max-content;
-    background-color:  rgb(49, 243, 0);
+    background-color:  rgb(45, 226, 0);
 }
 
 .sec7 i {
@@ -1115,7 +1115,7 @@ nav {
         left: 49VW;
         width: 4px;
         height: 170px;
-        background-color: rgb(49, 243, 0);
+        background-color: rgb(45, 226, 0);
     }
 
     .sec5 h1 {
