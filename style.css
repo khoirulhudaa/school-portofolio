@@ -895,9 +895,7 @@ nav {
         background-size: contain;
         background-repeat: no-repeat;
         width: 92vw;
-        z-index: 9999;
         height: 400px;
-        z-index: 999;
     }
         
     .sec2 {
