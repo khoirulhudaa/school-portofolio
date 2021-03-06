@@ -4,6 +4,10 @@ body {
     overflow-x: hidden;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 section {
     width: 100vw;
 }
@@ -1313,11 +1317,11 @@ nav {
         margin-left: 20px;
         margin-top: 50px;
         border-radius: 4px;
-        background-color: rgb(28, 214, 3);
+        background-color: rgb(255, 255, 255);
         border: none;
         outline: none;
         z-index: 2;
-        color: white;
+        color: rgb(19, 224, 0);
     }
     
     .fb {
